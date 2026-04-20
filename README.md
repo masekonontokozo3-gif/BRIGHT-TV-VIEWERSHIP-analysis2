@@ -6,9 +6,9 @@ Using databricks qery, I transformed raw event-level data into an interactive da
 The aim of the project is to analys the  audience behavior, content performance, and engagement trends.
 
 #Project Planning
-I used Miro planning to brainstorm the project
-Used Databricks for data processing 
-And looker studio for final presentation 
+-I used Miro planning to brainstorm the project
+-I Used Databricks for data processing 
+-And used looker studio for final presentation 
 
 #Results
 looker studio presentaion
